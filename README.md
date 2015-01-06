@@ -1,4 +1,4 @@
 iris-coap
 =========
 
-Iris COAP is a Ruby implementation of the COAP protocol, built using Celluloid::IO
+Iris CoAP is a Ruby implementation of the CoAP protocol, built using Celluloid::IO
